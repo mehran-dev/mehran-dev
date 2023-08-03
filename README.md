@@ -152,27 +152,6 @@
         data-canonical-src="https://img.shields.io/badge/Git-informational?style=flat-square&amp;logo=Git&amp;logoColor=fff&amp;color=F05032"
         style="max-width: 100%"
     /></a>
-    <a href="https://support.apple.com/macos" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/bbbc47be6fa2c33d2cdd6362c0aa1ea6bdab8fd315871509df2c392177d47faf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f53582d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d4170706c65266c6f676f436f6c6f723d66666626636f6c6f723d303030"
-        alt="osx"
-        data-canonical-src="https://img.shields.io/badge/OSX-informational?style=flat-square&amp;logo=Apple&amp;logoColor=fff&amp;color=000"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://www.kernel.org/" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/05b37da28de2fafbcafc39ed5194009060b4d176df2f90a867ebb3c0facf105c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d4c696e7578266c6f676f436f6c6f723d30303026636f6c6f723d464343363234"
-        alt="linux"
-        data-canonical-src="https://img.shields.io/badge/Linux-informational?style=flat-square&amp;logo=Linux&amp;logoColor=000&amp;color=FCC624"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://www.microsoft.com/en-us/windows/" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/d34366933a349fda19df2e1a431ecfa7174ba57233d2cfdbf0d375d9d64743e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d57696e646f7773266c6f676f436f6c6f723d6666666626636f6c6f723d303041444546"
-        alt="windows"
-        data-canonical-src="https://img.shields.io/badge/Windows-informational?style=flat-square&amp;logo=Windows&amp;logoColor=ffff&amp;color=00ADEF"
-        style="max-width: 100%"
-    /></a>
     <a href="https://www.mongodb.com/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/f0a25b538f9284bdd190a5020740109414d067b6095cd40341a2ea056c8088cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d66666626636f6c6f723d304641323443"
@@ -194,25 +173,11 @@
         data-canonical-src="https://img.shields.io/badge/Swagger-informational?style=flat-square&amp;logo=swagger&amp;logoColor=fff&amp;color=38b832"
         style="max-width: 100%"
     /></a>
-    <a href="https://www.nginx.com/" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/888946c43abdd6991e0b9a71ce7d1c9a45bb3ce3b539b0fc4ba215dc0428a3a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e67696e782d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6e67696e78266c6f676f436f6c6f723d46454645464526636f6c6f723d303039343342"
-        alt="nginx"
-        data-canonical-src="https://img.shields.io/badge/Nginx-informational?style=flat-square&amp;logo=nginx&amp;logoColor=FEFEFE&amp;color=00943B"
-        style="max-width: 100%"
-    /></a>
     <a href="https://mui.com/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/21a70d3b72c252b5e5ca10ccc25d0f2da76e394462de3ba4567383bcc1ba9c90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c5f55492d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6d7569266c6f676f436f6c6f723d66666626636f6c6f723d303037464646"
         alt="material-ui"
         data-canonical-src="https://img.shields.io/badge/Material_UI-informational?style=flat-square&amp;logo=mui&amp;logoColor=fff&amp;color=007FFF"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://chakra-ui.com/" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/3b6db39adc55db069a979a4443d2d5080f2250c56270898601e720858ce3bb98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368616b72615f55492d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6368616b72612d7569266c6f676f436f6c6f723d66666626636f6c6f723d333139373935"
-        alt="chakra-ui"
-        data-canonical-src="https://img.shields.io/badge/Chakra_UI-informational?style=flat-square&amp;logo=chakra-ui&amp;logoColor=fff&amp;color=319795"
         style="max-width: 100%"
     /></a>
     <a href="https://getbootstrap.com/" rel="nofollow"
@@ -243,14 +208,7 @@
         data-canonical-src="https://img.shields.io/badge/Sass-informational?style=flat-square&amp;logo=sass&amp;logoColor=fff&amp;color=C36291"
         style="max-width: 100%"
     /></a>
-    <a href="https://www.gnu.org/software/bash/" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/0f43a5992f5374b20cf7591ce6b13b50df5dce0059bf532dcff37a9af6ddada3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d676e7562617368266c6f676f436f6c6f723d64396439643926636f6c6f723d323232413335"
-        alt="bash"
-        data-canonical-src="https://img.shields.io/badge/Bash-informational?style=flat-square&amp;logo=gnubash&amp;logoColor=d9d9d9&amp;color=222A35"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://www.vim.org/" rel="nofollow"
+    <!-- <a href="https://www.vim.org/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/b8a5184a2b150e2e80ecbcf4e71d17ff836a75df54441ef729f648f6e83ab8fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56696d2d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d76696d266c6f676f436f6c6f723d66666626636f6c6f723d303139303330"
         alt="vim"
@@ -263,21 +221,7 @@
         alt="neovim"
         data-canonical-src="https://img.shields.io/badge/Neovim-informational?style=flat-square&amp;logo=neovim&amp;logoColor=0b151b&amp;color=8fff6d"
         style="max-width: 100%"
-    /></a>
-    <a href="https://strapi.io/" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/516524b1fe2d41df375c3a84afef28d784c7fe2b96cd049c604d6000720277b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726170692d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d737472617069266c6f676f436f6c6f723d66666626636f6c6f723d313231303830"
-        alt="strapi"
-        data-canonical-src="https://img.shields.io/badge/Strapi-informational?style=flat-square&amp;logo=strapi&amp;logoColor=fff&amp;color=121080"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://directus.io/" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/18f43b2fb95574921a79752126931902a00d1cf0fa36736c692c781207619603/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44697265637475732d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6469726563747573266c6f676f436f6c6f723d66666626636f6c6f723d363634334645"
-        alt="directus"
-        data-canonical-src="https://img.shields.io/badge/Directus-informational?style=flat-square&amp;logo=directus&amp;logoColor=fff&amp;color=6643FE"
-        style="max-width: 100%"
-    /></a>
+    /></a> -->
     <a href="https://www.markdownguide.org/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/e4da371e0e7718254887dc12fb00a1c281b8c153cb4bc063f068f04d073fe0c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d4d61726b646f776e266c6f676f436f6c6f723d66666626636f6c6f723d303030303030"
@@ -320,12 +264,12 @@
         data-canonical-src="https://img.shields.io/badge/Gatsby-informational?style=flat-square&amp;logo=gatsby&amp;logoColor=fff&amp;color=663399"
         style="max-width: 100%"
     /></a>
-    <a href="https://www.atlassian.com/software/jira" rel="nofollow"
+    <!-- <a href="https://www.atlassian.com/software/jira" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/914fe3dc3ff4b8522fd8c831daf5db97fb74976d2b72fe8de50d1d55c85e55c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6a697261266c6f676f436f6c6f723d66666626636f6c6f723d303035324343"
         alt="jira"
         data-canonical-src="https://img.shields.io/badge/Jira-informational?style=flat-square&amp;logo=jira&amp;logoColor=fff&amp;color=0052CC"
         style="max-width: 100%"
-    /></a>
+    /></a> -->
   </p>
 </article>
