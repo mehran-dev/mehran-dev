@@ -18,10 +18,10 @@
     >I'm Mahan
   </h2>
   <p dir="auto">
-    I'm a Front-end software engineer who enjoys building things that live on the internet. <br />
-    I develop exceptional websites and web apps that provide intuitive, <br />
-    pixel-perfect user interfaces while being clean and efficient behind the scenes. <br />
-    I enjoy constantly learning and improving my skills with the many technologies that power the web.
+    Hi 😍
+   my name is : Mehran  <br />
+   I really love being pro in development   <br />
+
   </p>
   <h2 dir="auto">
     <a id="user-content-skills-and-technologies" class="anchor" aria-hidden="true" href="#skills-and-technologies"
@@ -52,13 +52,6 @@
         src="https://camo.githubusercontent.com/465a9d58d2db26bc8c9b2ce3a6bbfc01d1cec9097b9594fa23c80aeeaf46e2c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64654a532d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d66666626636f6c6f723d303236653030"
         alt="nodejs"
         data-canonical-src="https://img.shields.io/badge/NodeJS-informational?style=flat-square&amp;logo=node.js&amp;logoColor=fff&amp;color=026e00"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://go.dev/" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/550ca7d47cda71b2c4ad664731fda48b9b8808c010d5108f88152b3023510956/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f2d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d476f266c6f676f436f6c6f723d30303026636f6c6f723d373944344644"
-        alt="go"
-        data-canonical-src="https://img.shields.io/badge/Go-informational?style=flat-square&amp;logo=Go&amp;logoColor=000&amp;color=79D4FD"
         style="max-width: 100%"
     /></a>
     <a href="https://reactjs.org/" rel="nofollow"
