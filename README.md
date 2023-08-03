@@ -15,12 +15,14 @@
           fill-rule="evenodd"
           d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"
         ></path></svg></a
-    >I'm Mahan
+    >I'm Mehran Saghebi Fard
   </h2>
   <p dir="auto">
-    Hi 😍
-   my name is : Mehran  <br />
+   
+ 
    I really love being pro in development   <br />
+   I'm trying to be master in React and Next  / later maybe MERN  <br />
+   I love Django maybe one day I learn it, too   <br />
 
   </p>
   <h2 dir="auto">
@@ -89,13 +91,13 @@
         data-canonical-src="https://img.shields.io/badge/React_Query-informational?style=flat-square&amp;logo=reactquery&amp;logoColor=fff&amp;color=EF4444"
         style="max-width: 100%"
     /></a>
-    <a href="https://www.apollographql.com/docs/" rel="nofollow"
+    <!-- <a href="https://www.apollographql.com/docs/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/0ccb6bd4246d4234f7a14423c2f2d083def23c2387ce7e479989ae82e28eee16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41706f6c6c6f5f436c69656e742d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d61706f6c6c6f6772617068716c266c6f676f436f6c6f723d61643962663626636f6c6f723d316232323430"
         alt="apollo-client"
         data-canonical-src="https://img.shields.io/badge/Apollo_Client-informational?style=flat-square&amp;logo=apollographql&amp;logoColor=ad9bf6&amp;color=1b2240"
         style="max-width: 100%"
-    /></a>
+    /></a> -->
     <a href="https://expressjs.com/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/6dec188b29ab472109892298b7cc5b7c647bb5893bcecad88b64380c7b067f3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d65787072657373266c6f676f436f6c6f723d66666626636f6c6f723d303130313031"
@@ -159,13 +161,13 @@
         data-canonical-src="https://img.shields.io/badge/MongoDB-informational?style=flat-square&amp;logo=mongodb&amp;logoColor=fff&amp;color=0FA24C"
         style="max-width: 100%"
     /></a>
-    <a href="https://www.docker.com/" rel="nofollow"
+    <!-- <a href="https://www.docker.com/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/ea0fac70340a448e7eab4ef1c2d9b44a44a86880983df6117797a632a52d38ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d66666626636f6c6f723d323439364544"
         alt="docker"
         data-canonical-src="https://img.shields.io/badge/Docker-informational?style=flat-square&amp;logo=docker&amp;logoColor=fff&amp;color=2496ED"
         style="max-width: 100%"
-    /></a>
+    /></a> -->
     <a href="http://swagger.io/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/62749968a93bfe66d80157ff5b687b304d086b850cda0ddefa3611247d14d4c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537761676765722d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d73776167676572266c6f676f436f6c6f723d66666626636f6c6f723d333862383332"
@@ -257,13 +259,13 @@
         data-canonical-src="https://img.shields.io/badge/Vercel-informational?style=flat-square&amp;logo=Vercel&amp;logoColor=fff&amp;color=000000"
         style="max-width: 100%"
     /></a>
-    <a href="https://www.gatsbyjs.com/" rel="nofollow"
+    <!-- <a href="https://www.gatsbyjs.com/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/490796555d9618988feb72a1f89b55730482889823a0caa0148a42f7a9aa6737/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4761747362792d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d676174736279266c6f676f436f6c6f723d66666626636f6c6f723d363633333939"
         alt="gatsby"
         data-canonical-src="https://img.shields.io/badge/Gatsby-informational?style=flat-square&amp;logo=gatsby&amp;logoColor=fff&amp;color=663399"
         style="max-width: 100%"
-    /></a>
+    /></a> -->
     <!-- <a href="https://www.atlassian.com/software/jira" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/914fe3dc3ff4b8522fd8c831daf5db97fb74976d2b72fe8de50d1d55c85e55c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6a697261266c6f676f436f6c6f723d66666626636f6c6f723d303035324343"
