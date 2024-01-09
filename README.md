@@ -20,9 +20,9 @@
   <p dir="auto">
    
  
-   I really love being pro in development   <br />
-   I'm trying to be master in React and Next  / later maybe MERN  <br />
-   I love Django maybe one day I learn it, too   <br />
+ #  I'm a front-end developer <br />
+ #  I'm imporoving my knowledge  <br />
+ #  I love to know about backend (MERNStack & Django) and UIUX too!   <br />
 
   </p>
   <h2 dir="auto">
