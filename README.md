@@ -50,12 +50,7 @@
         style="max-width: 100%"
     /></a>
     <a href="https://nodejs.org/" rel="nofollow"
-      ><img
-        src="https://camo.githubusercontent.com/465a9d58d2db26bc8c9b2ce3a6bbfc01d1cec9097b9594fa23c80aeeaf46e2c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64654a532d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d66666626636f6c6f723d303236653030"
-        alt="nodejs"
-        data-canonical-src="https://img.shields.io/badge/NodeJS-informational?style=flat-square&amp;logo=node.js&amp;logoColor=fff&amp;color=026e00"
-        style="max-width: 100%"
-    /></a>
+      ><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></a>
     <a href="https://reactjs.org/" rel="nofollow"
       ><img
         src="https://camo.githubusercontent.com/9552f4dd37d3bf600306c4725a3ddb552a6c74fef10de5796e5b2883cda2be38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d2532333332374643372e7376673f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d614441464226636f6c6f723d333233363345"
