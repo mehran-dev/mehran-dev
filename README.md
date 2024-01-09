@@ -20,9 +20,9 @@
   <p dir="auto">
    
  
- #  I'm a front-end developer <br />
- #  I'm imporoving my knowledge  <br />
- #  I love to know about backend (MERNStack & Django) and UIUX too!   <br />
+ ####  I'm a front-end developer <br />
+ ####  I'm imporoving my knowledge  <br />
+ ####  I love to know about backend (MERNStack & Django) and UIUX too!   <br />
 
   </p>
   <h2 dir="auto">
